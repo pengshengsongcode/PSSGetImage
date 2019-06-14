@@ -1,0 +1,6 @@
+framework module PSSGetImage {
+  umbrella header "PSSGetImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
