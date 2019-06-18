@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PSSGetImage'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '以供私有库、公有库获取图片'
 
 # This description is used to generate tags and improve search results.

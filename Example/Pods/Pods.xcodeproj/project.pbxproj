@@ -28,24 +28,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0FEC768AF49F92C411723D6810051202 /* PSSGetImage.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = PSSGetImage.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0FEC768AF49F92C411723D6810051202 /* PSSGetImage.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = PSSGetImage.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		14A96271C36A17062F99F51CB583BEAA /* PSSGetImage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PSSGetImage.xcconfig; sourceTree = "<group>"; };
 		37FC917B9E922A097F2DA361190AFD83 /* Pods-PSSGetImage_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PSSGetImage_Tests.modulemap"; sourceTree = "<group>"; };
 		48E560BFAB26513C5C837D15FC4791DB /* PSSGetImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PSSGetImage.h; path = PSSGetImage/Classes/PSSGetImage.h; sourceTree = "<group>"; };
 		4E460417E7BDB9410C8EDA8058856D0E /* Pods-PSSGetImage_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PSSGetImage_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		697BF2B8A40CF751C8809A9B9E88E1A5 /* PSSGetImage-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PSSGetImage-dummy.m"; sourceTree = "<group>"; };
-		6DF161648E88A13AB4D279A3300A1C62 /* Pods_PSSGetImage_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PSSGetImage_Tests.framework; path = "Pods-PSSGetImage_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DF161648E88A13AB4D279A3300A1C62 /* Pods_PSSGetImage_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PSSGetImage_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72004B20EDA1FA7A59F23C9C255AB7E0 /* Pods-PSSGetImage_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PSSGetImage_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		72DDCD5733730892ABE8C3B326FED83B /* PSSGetImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PSSGetImage.framework; path = PSSGetImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72DDCD5733730892ABE8C3B326FED83B /* PSSGetImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PSSGetImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		774F1C905C8DC655C4686D221AB232B8 /* Pods-PSSGetImage_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PSSGetImage_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7A6C4482DE96EC51F269004D1581A8EF /* Pods-PSSGetImage_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PSSGetImage_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		7D9840A921B174C410BB7351A80FCEA1 /* Pods-PSSGetImage_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PSSGetImage_Tests-Info.plist"; sourceTree = "<group>"; };
 		7E4688D33F0DDF00BD20C9A0F21F600C /* PSSGetImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = PSSGetImage.modulemap; sourceTree = "<group>"; };
-		9C47C6CCBA2B231059ACF40B121BBC5B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9C47C6CCBA2B231059ACF40B121BBC5B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BAFA44C4906A24B96CE665DB2F30A23E /* PSSGetImage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PSSGetImage-prefix.pch"; sourceTree = "<group>"; };
 		BCBCA854D19FC638235BBF7337FCEDAE /* PSSGetImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PSSGetImage.m; path = PSSGetImage/Classes/PSSGetImage.m; sourceTree = "<group>"; };
-		C66A0B737810784C63387957C87601D2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C66A0B737810784C63387957C87601D2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C6C7345FEBEE4DAF46531A5D751F253A /* PSSGetImage-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PSSGetImage-Info.plist"; sourceTree = "<group>"; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DBADC85C6C9A39D33BEACD392B61F8BF /* PSSGetImage-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PSSGetImage-umbrella.h"; sourceTree = "<group>"; };
@@ -253,6 +253,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -558,8 +559,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
