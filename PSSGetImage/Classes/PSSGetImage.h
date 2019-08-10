@@ -9,8 +9,6 @@
 
 @interface PSSGetImage : NSObject
 
-+ (nullable UIImage *)imageNamed:(NSString *)name;
-
 + (nullable UIImage *)imageNamed:(NSString *)name subBundleName:(NSString *)subBundleName;
 
 @end

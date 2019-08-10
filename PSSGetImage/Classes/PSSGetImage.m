@@ -11,12 +11,6 @@
 
 @implementation PSSGetImage
 
-+ (nullable UIImage *)imageNamed:(nonnull NSString *)name {
-    
-    return [self imageNamed:name subBundleName:nil];
-    
-}
-
 + (nullable UIImage *)imageNamed:(nullable NSString *)name subBundleName:(nullable NSString*)subBundleName {
     
     UIImage *image = [UIImage imageNamed:name];
